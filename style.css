@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #d9f9db;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1, h2 {
+    margin: 10px 0;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #ffffff;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid rgb(32, 80, 30);
+    text-align: left;
+}
+
+.stylowy-obrazek {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid rgb(34, 98, 37);
+    display: block;
+    margin: 20px auto;
+}
